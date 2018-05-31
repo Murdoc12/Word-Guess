@@ -1,0 +1,62 @@
+/* body
+{
+background-image: url('../images/Horizon-1.jpg')
+}
+
+h2
+{
+color:white;
+
+}
+
+#head
+{width: 33%;
+height: 33%;
+
+
+} */
+
+
+.boxright {
+    float: left;
+    padding: 5px;
+    position: absolute;
+    left: 40%;
+    top: 40%; 
+    margin-left: 121px;
+    margin-top: -75px;
+    height: 375px;
+    width: 245px;
+    border: 5px inset purple;
+    color: white;
+    font-size: 20px;
+    background-color: black;
+   
+    
+   
+
+    
+    
+}
+
+#boxleft {
+    float: left;
+    padding: 5px;
+    position: absolute;
+    left: 35%;
+    top: 40%; 
+    margin-left: -100px;
+    margin-top: -75px;
+    height: 375px;
+    width: 245px;
+    border: 5px inset purple;
+    color:white;
+    background-color: black;
+    
+   
+
+    
+    
+}
+
+
